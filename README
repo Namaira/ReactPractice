@@ -1,0 +1,8 @@
+~*README*~
+Webpack is set to send everything to port 3333. Go into npm and cd into React Practice.
+Do all of the npm stuff (you probably know this better than I do -- npm install?), 
+doing 'npm start' will utilize whatever file is named 'App.js' at the moment, 
+though you can change which one you want to run in main.js.
+
+All of the apps are commented. There are separate notes but they are not very 
+comprehensive. 
