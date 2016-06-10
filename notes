@@ -1,0 +1,36 @@
+Egghead notes, starting from video 7
+these are shitty, the comments on the programs are more helpful
+    refs -- reference instance of component from within application
+    won't work with stateless function components
+    Create class slider, take and translate stuff from widget into slider
+    get rid of widget
+    Creat red, green, blue
+    import React DOM because you'll need to reach out to the React DOM
+
+
+    Video 8, accessing child properties
+    putting this.props.children refers to React, the word nestled within <Button>React</Button>
+
+    Video 9
+    mounting and unmounting
+
+    Video 10 Mounting Usage
+    What exactly is mounting and unmounting? refers to initial rendering and removal
+
+    Video 11 Component Lifecycle
+    You can set it so that your component doesn't rerender after every interaction -- in the example, the button only rerenders when it is clicked in multiples of 5
+
+    Video 12 Higher Order Components
+    give the same behavious to different components -- ie a label and a button that both increase but under different 
+    React provides mixins for different components with common functionality
+
+    Video 13 Composable Components
+    back to the slider component
+    What are propTypes?
+        When reusing components, you can use proptyeps to make sure the components are being used correcty/that the data you receive is valid  for that component -- you can specify which types the properties should be
+
+    Video 14 Dynamically Generated Components
+
+    React Developer tools-- chrome application
+
+
